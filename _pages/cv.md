@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: David Kaufman - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
