@@ -10,6 +10,9 @@ permalink: /cv/
 
 **Email:** [drk226@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +631 827 4973
 
+
+<!--
+comment this all out
 ---
 
 #### Objective
