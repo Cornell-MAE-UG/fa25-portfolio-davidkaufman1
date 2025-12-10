@@ -1,13 +1,10 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: Aircraft Pitch Control
+description: Closed-Loop State Space Model for Aircraft Pitch Control
+technologies: [MatLab]
+image: /assets/images/pitch_control.jpg
 ---
 
-
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+[Aircraft Pitch Control Report](https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/pdf_attachment/file/241363168/MAE3260_Final_Project.docx.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOW535H53CG%2F20251210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251210T231946Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBcaCXVzLXdlc3QtMiJHMEUCIQCz4c0RBN9IDpex%2FXea%2FldO1SM5d1LD6bTcsJ1urlD%2BVAIgYgib5miJb9lOsAuMATikcFe2T%2FsV072n26WPhZzlK6wqwwUI4P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MDU2OTkyNDkwNjkiDBONBVHLp1XaxGS8rSqXBSOoI3g7XsK5O8uHlY2aaD7yNIb25BGvcppOV%2BQpvF6ZnpUI9rFfE7JTjHggMaF456voUT1MSD%2BNmZCs3odpqf1QjtxbhOLA9lhZhjM%2FYITchzkSkxssoICkb%2BK1bz8gylflqIA8sR0dKeWzk6a6BP0H09xcpmjXzjGSaBKvnlIYqb1YShj3dxdaZ0v8%2BsmIPkFvSElYWIth0OQ%2F8Vj55prGAXtf0F2YMQW4UFRR1fjpbk31MEc4zTs%2Ba5RK00N6%2Blarp39BO8sTpwemUb6ghfR%2FL1SGjZAXO8FFgWJxAokzkGV2hXq3LZyqHX7xHzBRwFgB%2Fj6uWORBFc6%2BSQjC6Ev5184SErdK4V6MgXGrifqcDjNaiIU6jnygv9fXIR1JArFv83g6WxXrAEeRDVeddSm6bBo%2BpLiFVWgBoAklGCBhFC%2BQDp31Zj0xjo9Wzj21%2BtnzM4j6FL22Mwn6rAwEDR%2F7%2BVgt6rWlMH3UMpi1mnAmrQrUxo27YEz7bwcYELIKEcB7VgBnerx%2F2NN9LmdhscZhLaHqcwhJR%2FoOQViA6yl3X8SsKRqU30MbpH8p38X3NpoSQ%2FHqytBPnwrhWE8gCJeiwavrSlvpqithPcoa9tHIUhFPCk8TYadkQS31HwNqhOYabijoY6CefCk0q6tW7kiAXRxZ4Iq%2BFpvKeiCXLlSfdY7dnA7q5cOFqGbI0TmnPJDb2Hn1bJ3C5iShAkgT2adrlar1yzMimUSVB8wwHz%2FImNA3HNThRTNpg2zw8R%2FHbKkXzAgrkm82zUeHs62ruqv0%2BZKDCD%2BmBRj6nSCoz1b7bqMoShaw8RdXo7zQpcNjZ1m6mowgRx6TFDQbid9dJzTDXyWUpnFJq3aQaqK0VQI7cvE5gfZ6YDDM6ufJBjqxAeXKWyRJDDg5m%2BBOd9E0YtqAAdv4JL9vQZkw4Z7TAvGckywLosbVAE%2FZGyN5EVoNechWN%2FECxbA1XFmf9xcHSgbPGQWf%2Fzc2bnAXcajDUct1%2BoBeMCFAOq8o1mbidcD9l1IJQSQ0Xb3HHMMJbOXaFhQRqFfEBMuBoIBw7RMGWRQVl3RuTRdqyEviRFCjUdR8MtWK8avMz94f9mngwGEWeXdaSA87qBAEINbwqG76CR7fZQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d02c5105b06e326c734dafcda1107f8a896ab370493eca3cc2ba06c42fe443e4)
 
