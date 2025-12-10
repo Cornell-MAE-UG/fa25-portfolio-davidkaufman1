@@ -6,7 +6,6 @@ title: David Kaufman
 ## About Me
 
 
-![Profile Picture]({{"/assets/images/profile-pic.JPG" | relative_url}})
 
  <img src="{{"/assets/images/profile-pic.JPG" | relative_url }}" width ="75%">
  
