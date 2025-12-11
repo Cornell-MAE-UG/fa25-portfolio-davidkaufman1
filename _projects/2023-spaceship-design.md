@@ -6,5 +6,5 @@ technologies: [MatLab]
 image: /assets/images/pitch_control.png
 ---
 
-[Aircraft Pitch Control Report](/assets/images/David_Kaufman_Resume.pdf)
+[Aircraft Pitch Control Report](/assets/images/MAE3260_Final_Project.pdf)
 
