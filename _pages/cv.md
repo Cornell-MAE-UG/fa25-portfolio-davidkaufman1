@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/David_Kaufman_Resume.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/images/David_Kaufman_Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [drk226@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +631 827 4973

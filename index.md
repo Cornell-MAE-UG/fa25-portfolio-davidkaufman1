@@ -7,7 +7,7 @@ title: David Kaufman
 
 
 
- <img src="{{"/assets/images/profile-pic.JPG" | relative_url }}" width ="75%">
+ <img src="{{"/assets/images/profile-pic.JPG" | relative_url }}" width ="50%">
  
 
 My name is David Kaufman, and I am Junior studying Mechanical and Aerospace Engineering at Cornell University. I am passionate about everything aerospace from experimental aircraft to search and rescue UAVs. I have a background in Integration and Test Engineering in complex environments including ultra-high vacuum, high vibration, and cryogenic conditions. 
