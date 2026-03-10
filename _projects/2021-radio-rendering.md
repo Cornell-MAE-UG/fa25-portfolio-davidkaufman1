@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Heat Transfer Example Problem
+title: Heat Transfer Example
 description: Heat Sink Investigations
 technologies: [None]
 image: /assets/images/pin_fin_SS.png
